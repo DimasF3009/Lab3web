@@ -1,6 +1,6 @@
 # Lab3web
 
-# Membuat Membuat Ordered List dan Unorderd List
+## Membuat Membuat Ordered List dan Unorderd List
 ```
 <h1>Membuat List</h1>
 <section id="ordered">
@@ -22,7 +22,7 @@
 ```
 <img width="164" alt="ol dan ul" src="https://github.com/DimasF3009/Lab3web/assets/115356128/77d9bc90-4217-4fcb-96c8-d06d4c623322">
 
-# Membuat Description List
+## Membuat Description List
 ```
 <section id="desc-list">
   <h2>Description List</h2>
@@ -40,7 +40,7 @@
 ```
 ![desc list](https://github.com/DimasF3009/Lab3web/assets/115356128/6fd69d9b-8fd3-4dd3-8556-15f80ee71713)
 
-# Membuat Tabel
+## Membuat Tabel
 ```
 <h1>Membuat table</h1>
 <table border="10" cellpadding = "7" cellspacing="5">
@@ -76,5 +76,36 @@
 ```
 ![Table](https://github.com/DimasF3009/Lab3web/assets/115356128/bf1ed1fe-c684-401f-9918-668c2fe528fb)
 
-# Menggabungkan Sel Data
+## Menggabungkan Cell Data
+```
+<h1>Membuat table</h1>
+<table border="1" cellpadding = "5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Fakultas</th>
+      <th>Program Studi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td rowspan="3">Teknik</td>
+      <td>Teknik Informatika</td>
+    </tr>
+
+    <tr>
+      <td>2.</td>
+      <td>Teknik Industri</td>
+    </tr>
+
+    <tr>
+      <td>3.</td>
+      <td>Teknik Lingkungan</td>
+    </tr>
+  </tbody>
+</table>
+```
+![Sel data](https://github.com/DimasF3009/Lab3web/assets/115356128/133c42f7-eb61-4c0c-9428-d65916cad5fe)
+
 # Membuat Formm
