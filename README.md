@@ -41,5 +41,40 @@
 ![desc list](https://github.com/DimasF3009/Lab3web/assets/115356128/6fd69d9b-8fd3-4dd3-8556-15f80ee71713)
 
 # Membuat Tabel
+```
+<h1>Membuat table</h1>
+<table border="10" cellpadding = "7" cellspacing="5">
+  <thead>
+    <tr>
+        <th>No</th>
+        <th>Nama</th>
+        <th>Fakultas</th>
+        <th>Program Studi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1.</td>
+        <td>Dimas Firmansyah</td>
+        <td>Teknik</td>
+        <td>Teknik Informatika</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Fahmi Faturohman</td>
+        <td>Ekonomi & Bisnis</td>
+        <td>Management</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Shadam Verron</td>
+        <td>Hukum</td>
+        <td>Hukum</td>
+    </tr>
+  </tbody>
+</table>
+```
+![Table](https://github.com/DimasF3009/Lab3web/assets/115356128/bf1ed1fe-c684-401f-9918-668c2fe528fb)
+
 # Menggabungkan Sel Data
 # Membuat Formm
