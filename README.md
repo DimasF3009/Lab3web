@@ -109,3 +109,8 @@
 ![Sel data](https://github.com/DimasF3009/Lab3web/assets/115356128/133c42f7-eb61-4c0c-9428-d65916cad5fe)
 
 # Membuat Formm
+#### Code
+![form](https://github.com/DimasF3009/Lab3web/assets/115356128/d48094ae-c60d-4875-b70f-c513287b4a2b)
+#### Hasil
+![hasilForm](https://github.com/DimasF3009/Lab3web/assets/115356128/30e986fa-f572-4f4a-912c-1e784621bb27)
+
