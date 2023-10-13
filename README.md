@@ -114,3 +114,10 @@
 #### Hasil
 ![hasilForm](https://github.com/DimasF3009/Lab3web/assets/115356128/30e986fa-f572-4f4a-912c-1e784621bb27)
 
+# Latihan Praktikum
+#### Code
+![codePrak](https://github.com/DimasF3009/Lab3web/assets/115356128/68cc2877-c780-45f5-b2b3-11699d2d4f3d)
+#### Hasil
+![hasilPrak](https://github.com/DimasF3009/Lab3web/assets/115356128/eaf5bf10-40c2-4418-b69a-df755cb040ab)
+
+
