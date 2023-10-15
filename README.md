@@ -118,7 +118,7 @@
 #### Code
 ![CodePrak](https://github.com/DimasF3009/Lab3web/assets/115356128/d72fe3fa-6c84-4752-90a9-7172fd6d6fcf)
 #### Hasil
-<img width="954" alt="HasilPrak" src="https://github.com/DimasF3009/Lab3web/assets/115356128/06152e90-e98d-4222-817a-76fe9854c4a7">
+![HasilPrak](https://github.com/DimasF3009/Lab3web/assets/115356128/696d70a8-892b-4c08-98a2-36ecb9b0b7a6)
 
 
 
