@@ -116,8 +116,9 @@
 
 # Latihan Praktikum
 #### Code
-![codePrak](https://github.com/DimasF3009/Lab3web/assets/115356128/68cc2877-c780-45f5-b2b3-11699d2d4f3d)
+![CodePrak](https://github.com/DimasF3009/Lab3web/assets/115356128/d72fe3fa-6c84-4752-90a9-7172fd6d6fcf)
 #### Hasil
-![hasilPrak](https://github.com/DimasF3009/Lab3web/assets/115356128/eaf5bf10-40c2-4418-b69a-df755cb040ab)
+<img width="954" alt="HasilPrak" src="https://github.com/DimasF3009/Lab3web/assets/115356128/06152e90-e98d-4222-817a-76fe9854c4a7">
+
 
 
